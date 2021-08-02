@@ -7,6 +7,7 @@
 
 # How to start
 - You need install NodeJS, PostgreSQL for run this properly
+- If you have mysql, you can change config and dialect in config folder (fingercross)
 - npm i
 - run with node app.js or nodemon app.js (if you already install nodemon globally)
 
